@@ -1,2 +1,2 @@
 # algorithms
-Basic ML and Data Science algorithms for machine learning and 
+Basic ML and Data Science algorithms.
