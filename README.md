@@ -15,3 +15,12 @@ Basic ML and Data Science algorithms.
 10. [Principal Component Analysis (PCA)](./Machine%20Learning/Principal%20Component%20Analysis%20(PCA).ipynb)
 11. [Random Forest](./Machine%20Learning/Random%20Forest.ipynb)
 12. [Support Vector Machine (SVM)](./Machine%20Learning/Support%20Vector%20Machine%20(SVM).ipynb)
+
+
+## Blind-75 Solutions
+
+[Blind 75 questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) are a useful collection to prepare for interviews.
+
+### String
+
+50. [Longest Substring Without Repeating Characters](./Blind%2075/string/longest-substring-without-repeating-chars.ipynb)
