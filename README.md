@@ -26,3 +26,4 @@ Basic ML and Data Science algorithms.
 50. [Longest Substring Without Repeating Characters](./Blind%2075/string/longest-substring-without-repeating-chars.ipynb)
 51. [Longest Repeating Character Replacement](./Blind%2075/string/longest-repeating-character-replacement.ipynb)
 52. [Minimum Window Substring](./Blind%2075/string/minimum-window-substring.ipynb)
+53. [Valid Anagram](./Blind%2075/string/valid-anagram.ipynb)
