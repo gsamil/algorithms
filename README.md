@@ -30,3 +30,4 @@ Basic ML and Data Science algorithms.
 54. [Group Anagrams](./Blind%2075/string/group-anagrams.ipynb)
 55. [Valid Parantheses](./Blind%2075/string/valid-parantheses.ipynb)
 56. [Valid Palindrome](./Blind%2075/string/valid-palindrome.ipynb)
+57. [Longest Palindromic Substring](./Blind%2075/string/longest-palindromic-substring.ipynb)
