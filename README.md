@@ -36,4 +36,4 @@ Basic ML and Data Science algorithms.
 
 ### Tree
 
-60. [Maximum Depth of Binary Tree](./Blind%2075/string/maximum-depth-of-binary-tree.ipynb)
+60. [Maximum Depth of Binary Tree](./Blind%2075/tree/maximum-depth-of-binary-tree.ipynb)
