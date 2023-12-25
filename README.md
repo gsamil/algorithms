@@ -45,3 +45,4 @@ Basic ML and Data Science algorithms.
 66. [Subtree of Another Tree](./Blind%2075/tree/subtree-of-another-tree.ipynb)
 67. [Construct Binary Tree from Preorder and Inorder Traversal](./Blind%2075/tree/construct-binary-tree-from-preorder-and-inorder-traversal.ipynb)
 68. [Validate Binary Search Tree](./Blind%2075/tree/validate-binary-search-tree.ipynb)
+69. [Kth Smallest Element in a BST](./Blind%2075/tree/kth-smallest-element-in-a-bst.ipynb)
