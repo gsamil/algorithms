@@ -43,3 +43,4 @@ Basic ML and Data Science algorithms.
 64. [Binary Tree Level Order Traversal](./Blind%2075/tree/binary-tree-level-order-traversal.ipynb)
 65. [Serialize and Deserialize Binary Tree](./Blind%2075/tree/serialize-and-deserialize-binary-tree.ipynb)
 66. [Subtree of Another Tree](./Blind%2075/tree/subtree-of-another-tree.ipynb)
+67. [Construct Binary Tree from Preorder and Inorder Traversal](./Blind%2075/tree/construct-binary-tree-from-preorder-and-inorder-traversal.ipynb)
