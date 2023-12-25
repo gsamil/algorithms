@@ -39,3 +39,4 @@ Basic ML and Data Science algorithms.
 60. [Maximum Depth of Binary Tree](./Blind%2075/tree/maximum-depth-of-binary-tree.ipynb)
 61. [Same Tree](./Blind%2075/tree/same-tree.ipynb)
 62. [Invert/Flip Binary Tree](./Blind%2075/tree/invert-binary-tree.ipynb)
+63. [Binary Tree Maximum Path Sum](./Blind%2075/tree/binary-tree-maximum-path-sum.ipynb)
