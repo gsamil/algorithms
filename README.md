@@ -49,3 +49,4 @@ Basic ML and Data Science algorithms.
 70. [Lowest Common Ancestor of a Binary Search Tree](./Blind%2075/tree/lowest-common-ancestor-of-a-binary-search-tree.ipynb)
 71. [Implement Trie (Prefix Tree)](./Blind%2075/tree/implement-trie-prefix-tree.ipynb)
 72. [Design Add and Search Words Data Structure](./Blind%2075/tree/design-add-and-search-words-data-structure.ipynb)
+73. [Word Search II](./Blind%2075/tree/word-search-ii.ipynb)
