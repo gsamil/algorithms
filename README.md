@@ -47,3 +47,4 @@ Basic ML and Data Science algorithms.
 68. [Validate Binary Search Tree](./Blind%2075/tree/validate-binary-search-tree.ipynb)
 69. [Kth Smallest Element in a BST](./Blind%2075/tree/kth-smallest-element-in-a-bst.ipynb)
 70. [Lowest Common Ancestor of a Binary Search Tree](./Blind%2075/tree/lowest-common-ancestor-of-a-binary-search-tree.ipynb)
+71. [Implement Trie (Prefix Tree)](./Blind%2075/tree/implement-trie-prefix-tree.ipynb)
