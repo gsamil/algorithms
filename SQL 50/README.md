@@ -11,4 +11,5 @@
 | 4  | Select      | Easy       | [Article Views I](https://leetcode.com/problems/article-views-i)                                                               | [Solution](./select/article-views-i.md)                                     | SELECT & WHERE & ORDER BY |
 | 5  | Select      | Easy       | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets)                                                                 | [Solution](./select/invalid-tweets.md)                                      | SELECT & WHERE            |
 | 6  | Basic Joins | Easy       | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier) | [Solution](./basic-joins/replace-employee-id-with-the-unique-identifier.md) | SELECT & LEFT JOIN        |
+| 7  | Basic Joins | Easy       | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i)                                             | [Solution](./basic-joins/product-sales-analysis-i.md)                       | SELECT & LEFT JOIN        |
 
