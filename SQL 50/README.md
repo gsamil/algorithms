@@ -1,6 +1,6 @@
 # SQL 50 Solutions
 
-Leetcode SQL 50 questions are a useful collection to learn SQL.
+[Leetcode SQL 50 questions](https://leetcode.com/studyplan/top-sql-50/) are a useful collection to learn SQL.
 
 
 | No | Topic  | Difficulty | Name                                                                                              | Solution                                                | Concepts                  | 
