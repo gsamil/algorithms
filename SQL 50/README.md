@@ -9,4 +9,4 @@
 | 2  | Select | Easy       | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee)                      | [Solution](./select/find-customer-referee.md)           | SELECT & WHERE            |
 | 3  | Select | Easy       | [Big Countries](https://leetcode.com/problems/big-countries)                                      | [Solution](./select/big-countries.md)                   | SELECT & WHERE            |
 | 4  | Select | Easy       | [Article Views I](https://leetcode.com/problems/article-views-i)                                  | [Solution](./select/article-views-i.md)                 | SELECT & WHERE & ORDER BY |
-
+| 5  | Select | Easy       | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets)                                    | [Solution](./select/invalid-tweets.md)                  | SELECT & WHERE            |
